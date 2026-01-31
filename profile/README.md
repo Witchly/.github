@@ -4,11 +4,18 @@
 
 Witchly.host provides high-performance, no-compromise hosting for gamers who demand the best. Our infrastructure is built on specialized hardware to ensure maximum TPS and zero-latency performance.
 
+### 👑 Leadership & Team
+- **Founder & Owner:** Tushar (aka Vamp_) - Systems Engineer
+- **Collaborators:**
+  - **Sasuke:** Social Media & Outreach
+  - **OrangedragonSP:** Documentation Maintenance
+  - **Chris:** Bot Development & Integration
+
 ### ✨ Why Witchly?
 - **Elite Hardware:** Powered by Intel i9 9900K processors (5.0GHz) and enterprise NVMe SSDs.
 - **Isolate Performance:** No over-allocation. We use CPU pinning to guarantee resources for every client.
 - **Custom Control:** A heavily refined Pterodactyl-based panel with 1-click modpack installers.
-- **Community First:** Active Discord support and comprehensive documentation.
+- **Founded:** Originally launched in Aug 2021 (Relaunched as Paid-Only in Jan 2026).
 
 ### 🎮 Supported Games
 - **Minecraft:** Java & Bedrock (The Construct, The Reactor, The Mainframe)
